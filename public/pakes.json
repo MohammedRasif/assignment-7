@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "Delicious Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+        "ingredients": 6,
+        "ingredients_beef":"500g ground beef" ,
+        "ingredients_onion":"1 onion, chopped" ,
+        "ingredients_cloves":"2 cloves garlic, minced" ,
+        "servings": 3,
+        "time": "30 minutes",
+        "calories": 600,
+        "cover_image": "https://i.ibb.co/FhSRGpL/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg"
+    }
+    ,
+    {
+        "id": 2,
+        "title": "Grilled Chicken Salad",
+        "description": "A healthy and delicious salad with grilled chicken, mixed greens, tomatoes, cucumbers, and balsamic vinaigrette.",
+        "ingredients": 6,
+        "ingredients_beef":"500g ground beef" ,
+        "ingredients_onion":"1 onion, chopped" ,
+        "ingredients_cloves":"2 cloves garlic, minced" ,
+        "time": "20 minutes",
+        "calories": 400,
+        "cover_image": "https://i.ibb.co/82sdGYx/flame-grilled-meat-cooking-flames-generative-ai.jpg"
+      }
+     ,
+     {
+        "id": 3,
+        "title": "Vegetable Stir-Fry",
+        "description": "A quick and flavorful stir-fry dish loaded with assorted vegetables and tofu, tossed in a savory sauce.",
+        "ingredients": 6,
+        "ingredients_beef":"500g ground beef" ,
+        "ingredients_onion":"1 onion, chopped" ,
+        "ingredients_cloves":"2 cloves garlic, minced" ,
+        "time": "25 minutes",
+        "calories": 350,
+        "cover_image": "https://i.ibb.co/hxNxKky/side-view-shawarma-with-fried-potatoes-board-cookware.jpg"
+      }
+    ,
+    {
+        "id": 4,
+        "title": "Chocolate Chip Cookies",
+        "description": "Classic homemade chocolate chip cookies, crispy on the edges and chewy in the middle.",
+        "ingredients": 6,
+        "ingredients_beef":"500g ground beef" ,
+        "ingredients_onion":"1 onion, chopped" ,
+        "ingredients_cloves":"2 cloves garlic, minced" ,
+        "time": "45 minutes",
+        "calories": 150,
+        "cover_image": "https://i.ibb.co/KN2wzLG/pizza-pizza-filled-with-tomatoes-salami-olives.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Grilled Salmon with Lemon-Dill Sauce",
+        "description": "Juicy grilled salmon fillets served with a tangy lemon-dill sauce, perfect for a light and flavorful meal.",
+        "ingredients":6,
+        "ingredients_beef":"500g ground beef" ,
+        "ingredients_onion":"1 onion, chopped" ,
+        "ingredients_cloves":"2 cloves garlic, minced" ,
+        "time": "15 minutes",
+        "calories": 300,
+        "cover_image": "https://i.ibb.co/82sdGYx/flame-grilled-meat-cooking-flames-generative-ai.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Vegetarian Pad Thai",
+        "description": "A delicious and satisfying Thai noodle dish made with rice noodles, tofu, bean sprouts, peanuts, and a flavorful sauce.",
+        "ingredients": 6,
+        "ingredients_beef":"500g ground beef" ,
+        "ingredients_onion":"1 onion, chopped" ,
+        "ingredients_cloves":"2 cloves garlic, minced" ,
+        "time": "30 minutes",
+        "calories": 450,
+        "cover_image": "https://i.ibb.co/3fnL0tg/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food.jpg"
+      }
+             
+]
+  
